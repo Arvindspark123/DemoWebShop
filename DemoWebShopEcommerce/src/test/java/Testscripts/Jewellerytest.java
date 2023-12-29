@@ -21,6 +21,8 @@ public class Jewellerytest extends BaseClass{
 		//Takes Screenshot on Diamond Heart
 		getScreenshotOfWebElement(j.getBlackAndWhiteDiamondHeartImage());
 		
+		
+		//My framework
 	
 		
 	}
