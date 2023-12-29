@@ -21,7 +21,7 @@ public class Jewellerytest extends BaseClass{
 		//Takes Screenshot on Diamond Heart
 		getScreenshotOfWebElement(j.getBlackAndWhiteDiamondHeartImage());
 		
-	//	String str = "hi";
+	
 		
 	}
 
